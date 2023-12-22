@@ -1,0 +1,33 @@
+C:\Users\tdrelangue\OneDrive\Bureau\ProjetIA2023 ENSC\ProjetIA2023 ENSC\bin\Debug\ProjetIA2022.exe.config
+C:\Users\tdrelangue\OneDrive\Bureau\ProjetIA2023 ENSC\ProjetIA2023 ENSC\bin\Debug\ProjetIA2022.exe
+C:\Users\tdrelangue\OneDrive\Bureau\ProjetIA2023 ENSC\ProjetIA2023 ENSC\bin\Debug\ProjetIA2022.pdb
+C:\Users\tdrelangue\OneDrive\Bureau\ProjetIA2023 ENSC\ProjetIA2023 ENSC\obj\Debug\ProjetIA2022.csproj.AssemblyReference.cache
+C:\Users\tdrelangue\OneDrive\Bureau\ProjetIA2023 ENSC\ProjetIA2023 ENSC\obj\Debug\ProjetIA2022.Form1.resources
+C:\Users\tdrelangue\OneDrive\Bureau\ProjetIA2023 ENSC\ProjetIA2023 ENSC\obj\Debug\ProjetIA2022.Properties.Resources.resources
+C:\Users\tdrelangue\OneDrive\Bureau\ProjetIA2023 ENSC\ProjetIA2023 ENSC\obj\Debug\ProjetIA2022.csproj.GenerateResource.cache
+C:\Users\tdrelangue\OneDrive\Bureau\ProjetIA2023 ENSC\ProjetIA2023 ENSC\obj\Debug\ProjetIA2022.csproj.CoreCompileInputs.cache
+C:\Users\tdrelangue\OneDrive\Bureau\ProjetIA2023 ENSC\ProjetIA2023 ENSC\obj\Debug\ProjetIA2022.exe
+C:\Users\tdrelangue\OneDrive\Bureau\ProjetIA2023 ENSC\ProjetIA2023 ENSC\obj\Debug\ProjetIA2022.pdb
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\ProjetIA2023 ENSC\ProjetIA2023 ENSC\bin\Debug\ProjetIA2022.exe.config
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\ProjetIA2023 ENSC\ProjetIA2023 ENSC\bin\Debug\ProjetIA2022.exe
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\ProjetIA2023 ENSC\ProjetIA2023 ENSC\bin\Debug\ProjetIA2022.pdb
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\ProjetIA2023 ENSC\ProjetIA2023 ENSC\obj\Debug\ProjetIA2022.csproj.AssemblyReference.cache
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\ProjetIA2023 ENSC\ProjetIA2023 ENSC\obj\Debug\ProjetIA2022.Form1.resources
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\ProjetIA2023 ENSC\ProjetIA2023 ENSC\obj\Debug\ProjetIA2022.Properties.Resources.resources
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\ProjetIA2023 ENSC\ProjetIA2023 ENSC\obj\Debug\ProjetIA2022.csproj.GenerateResource.cache
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\ProjetIA2023 ENSC\ProjetIA2023 ENSC\obj\Debug\ProjetIA2022.csproj.CoreCompileInputs.cache
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\ProjetIA2023 ENSC\ProjetIA2023 ENSC\obj\Debug\ProjetIA2022.exe
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\ProjetIA2023 ENSC\ProjetIA2023 ENSC\obj\Debug\ProjetIA2022.pdb
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\ProjetIA2023 ENSC\DRELANGUE BOVE\bin\Debug\ProjetIA2022.exe.config
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\ProjetIA2023 ENSC\DRELANGUE BOVE\bin\Debug\ProjetIA2022.exe
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\ProjetIA2023 ENSC\DRELANGUE BOVE\bin\Debug\ProjetIA2022.pdb
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\ProjetIA2023 ENSC\DRELANGUE BOVE\obj\Debug\ProjetIA2022.csproj.AssemblyReference.cache
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\ProjetIA2023 ENSC\DRELANGUE BOVE\obj\Debug\ProjetIA2022.Form1.resources
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\ProjetIA2023 ENSC\DRELANGUE BOVE\obj\Debug\ProjetIA2022.Properties.Resources.resources
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\ProjetIA2023 ENSC\DRELANGUE BOVE\obj\Debug\ProjetIA2022.csproj.GenerateResource.cache
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\ProjetIA2023 ENSC\DRELANGUE BOVE\obj\Debug\ProjetIA2022.csproj.CoreCompileInputs.cache
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\ProjetIA2023 ENSC\DRELANGUE BOVE\obj\Debug\ProjetIA2022.exe
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\ProjetIA2023 ENSC\DRELANGUE BOVE\obj\Debug\ProjetIA2022.pdb
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\Projets IA\Proj_IA_2023\obj\Debug\ProjetIA2022.csproj.AssemblyReference.cache
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\Projets IA\Proj_IA_2023\obj\Debug\ProjetIA2022.exe
+C:\Users\tdrelangue\OneDrive\Documents\Cours\ENSC\2A\Ingénierie Cognitique\2) Bases de l_Intelligence Artificielle\Projets IA\Proj_IA_2023\obj\Debug\ProjetIA2022.pdb
