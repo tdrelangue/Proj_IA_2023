@@ -70,7 +70,7 @@
             this.textBoxYinit.Name = "textBoxYinit";
             this.textBoxYinit.Size = new System.Drawing.Size(148, 38);
             this.textBoxYinit.TabIndex = 0;
-            this.textBoxYinit.Text = "2";
+            this.textBoxYinit.Text = "10";
             // 
             // textBoxXInit
             // 
